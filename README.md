@@ -2,5 +2,5 @@
 Repository test
 Hello!
 
-My name is Ighor Eckert. I'm 24 years old. I live in Brazil and I am new to programming!
-I'm focus on learning Front End and already know HTML, CSS, Javascrip and (not that much)Jquery. But I still have a lot to learn!
+My name is Ighor Eckert. I'm 26 years old. I live in Brazil and I aim to be a Front End Developer!
+I'm still learning Front End and already know HTML, CSS and Javascript. But I still have a lot to learn!
